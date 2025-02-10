@@ -1,20 +1,20 @@
 # Hi 👋 I'm Thundax
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Knowledge%20Graph-C2FFC7?style=flat" />
-    <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" alt="focus: ai" />
+    <img src="https://img.shields.io/badge/Focus-Knowledge%20Graph-C2FFC7?style=flat" alt="focus: knowledge graph"/>
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" alt="focus: web development"/>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thundax-lyp&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
+    <img src="https://komarev.com/ghpvc/?username=thundax-lyp&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" alt="previews"/>
 </p>
 
 <details open>
 <summary>Connect With Me</summary>
 <p align="center">
     <a href="mailto:thundax@qq.com">
-        <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=white" />
+        <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="mailto thundax@qq.com"/>
     </a>
 </p>
 </details>
@@ -86,7 +86,7 @@
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thundax-lyp&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thundax-lyp&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" alt="contribution"/>
 </p>
 </details>
 
