@@ -102,10 +102,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=thundax-lyp&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax-lyp's trophies"/>
 </p>
 
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thundax-lyp/thundax-lyp/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 </details>
 
 
