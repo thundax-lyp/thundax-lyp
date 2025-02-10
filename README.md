@@ -48,33 +48,27 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<h3 align="center">AI & Automation Tools</h3>
+<h3 align="center">AI Tools</h3>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="transformers" width="40" height="40"/>
-    <a href="https://networkx.org/" target="_blank">
-        <img style="width: 40px; height: 40px;" src="https://networkx.org/_static/networkx_logo.svg"/>
-    </a>
-
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="TyTorch" width="40" height="40"/>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Transformers" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/thundax-lyp/thundax-lyp/refs/heads/main/resources/networkx_logo.svg" alt="NetworkX" style="width: 40px; height: 40px;"/>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=40" alt="Langchain" style="width: 40px; height: 40px;"/>
+    <img src="https://avatars.githubusercontent.com/u/130722866?s=40" alt="LlamaIndex" style="width: 40px; height: 40px;"/>
 </p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
+    <img src="https://avatars.githubusercontent.com/u/201120?s=40" alt="Neo4j" style="width: 40px; height: 40px;"/>
 </details>
 
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
-    <a href="https://github.com/itsKayWat/ChatGPT-Recipe_Studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=ChatGPT-Recipe_Studio&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
+    <a href="https://github.com/thundax-lyp/openspg-schema-highlighter-idea-plugin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=openspg-schema-highlighter-idea-plugin&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="OpenSPG Schema Highlighter Idea Plugin"/>
     </a>
-    <a href="https://github.com/itsKayWat/GitSwift">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=GitSwift&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/itsKayWat/Smart_Text_Expander">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=Smart_Text_Expander&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-    <a href="https://github.com/itsKayWat/Nexus_Ai_Streaming_Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsKayWat&repo=Nexus_Ai_Streaming_Platform&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" />
-    </a>
-
 </p>
 </details>
 
@@ -246,7 +240,6 @@
 
 ## Hi there 👋
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -257,4 +250,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
