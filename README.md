@@ -66,12 +66,20 @@
 <details open>
 <summary>Top Repositories</summary>
 <p align="center">
-    <a href="https://github.com/thundax-lyp/openspg-schema-highlighter-idea-plugin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=openspg-schema-highlighter-idea-plugin&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="OpenSPG Schema Highlighter Idea Plugin"/>
-    </a>
-    <a href="https://github.com/thundax-lyp/wechat-tiptap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=wechat-tiptap&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Wechat TipTap"/>
-    </a>
+<table border="0">
+    <tr>
+        <td style="valign: center">
+            <a href="https://github.com/thundax-lyp/openspg-schema-highlighter-idea-plugin">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=openspg-schema-highlighter-idea-plugin&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="OpenSPG Schema Highlighter Idea Plugin"/>
+            </a>
+        </td>
+        <td style="valign: center">
+            <a href="https://github.com/thundax-lyp/wechat-tiptap">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=wechat-tiptap&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Wechat TipTap"/>
+            </a>
+        </td>
+    </tr>
+</table>
 </p>
 </details>
 
