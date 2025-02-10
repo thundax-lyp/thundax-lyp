@@ -65,7 +65,6 @@
 
 <details open>
 <summary>Top Repositories</summary>
-<p align="center">
 <table border="0">
     <tr>
         <td style="valign: center">
@@ -80,7 +79,6 @@
         </td>
     </tr>
 </table>
-</p>
 </details>
 
 <details open>
@@ -119,6 +117,6 @@
 <p><strong>"Keep coding, be curious, and build the future! ✨"</strong></p>
 </blockquote>
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer" alt=""/>
 </p>
 </div>
