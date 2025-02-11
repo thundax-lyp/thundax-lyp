@@ -65,14 +65,14 @@
 
 <details open>
 <summary>Top Repositories</summary>
-<table style="border: 0;">
-    <tr style="border: 0;">
-        <td style="border: 0;">
+<table>
+    <tr>
+        <td>
             <a href="https://github.com/thundax-lyp/openspg-schema-highlighter-idea-plugin">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=openspg-schema-highlighter-idea-plugin&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="OpenSPG Schema Highlighter Idea Plugin"/>
             </a>
         </td>
-        <td style="border: 0;">
+        <td>
             <a href="https://github.com/thundax-lyp/wechat-tiptap">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=wechat-tiptap&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Wechat TipTap"/>
             </a>
@@ -90,14 +90,23 @@
 
 <details open>
 <summary>GitHub Stats</summary>
-<p style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thundax-lyp&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax's GitHub stats" />
-        <img src="https://streak-stats.demolab.com?user=thundax-lyp&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="thundax's streak"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundax-lyp&theme=dark&layout=compact&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="thundax's top languages"/>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thundax-lyp&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax's GitHub stats" />
+        </td>
+        <td>
+            <img src="https://streak-stats.demolab.com?user=thundax-lyp&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="thundax's streak"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundax-lyp&theme=dark&layout=compact&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="thundax's top languages"/>
+        </td>
+    </tr>
+</table>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=thundax-lyp&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax's trophies"/>
-</div>
+</p>
 
 </details>
 
