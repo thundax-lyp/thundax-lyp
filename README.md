@@ -77,6 +77,11 @@
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=wechat-tiptap&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Wechat TipTap"/>
             </a>
         </td>
+        <td>
+            <a href="https://github.com/thundax-lyp/analysis-lac">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=analysis-lac&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Analysis with LAC"/>
+            </a>
+        </td>
     </tr>
 </table>
 </details>
@@ -99,7 +104,7 @@
             <img src="https://streak-stats.demolab.com?user=thundax-lyp&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="thundax's streak"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundax-lyp&theme=dark&layout=compact&title_color=C2FFC7&text_color=ffffff&bg_color=000000" alt="thundax's top languages"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundax-lyp&theme=dark&layout=compact&title_color=C2FFC7&text_color=fefefe&bg_color=000000" alt="thundax's top languages"/>
         </td>
     </tr>
 </table>
