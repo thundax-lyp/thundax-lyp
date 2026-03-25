@@ -20,13 +20,6 @@
 </details>
 
 <details open>
-<summary>Developer Quote</summary>
-<p style="display: flex; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=2000&color=82CF87&center=true&vCenter=true&random=false&width=840&lines=++Experience+is+the+name+everyone+gives+to+their+mistakes.++—+Oscar+Wilde" alt="Developer Quote"/>
-</p>
-</details>
-
-<details open>
 <summary>About Me</summary>
 <ul>
 <li>🌱 Currently focused on AI Development</li>
@@ -64,49 +57,9 @@
 </details>
 
 <details open>
-<summary>Top Repositories</summary>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/thundax-lyp/openspg-schema-highlighter-idea-plugin">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=openspg-schema-highlighter-idea-plugin&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="OpenSPG Schema Highlighter Idea Plugin"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/thundax-lyp/wechat-tiptap">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=wechat-tiptap&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Wechat TipTap"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/thundax-lyp/Qwen2.5-Sign">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=Qwen2.5-Sign&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Text-to-Sign Model base on Qwen2.5"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/thundax-lyp/analysis-lac">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thundax-lyp&repo=analysis-lac&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Analysis with LAC"/>
-            </a>
-        </td>
-    </tr>
-</table>
-</details>
-
-<details open>
-<summary>GitHub Contribution Chart</summary>
-<p style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thundax-lyp&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" alt="contribution"/>
-</p>
-</details>
-
-<details open>
 <summary>GitHub Stats</summary>
 <table>
     <tr>
-        <td>
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thundax-lyp&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax's GitHub stats" />
-        </td>
         <td>
             <img src="https://streak-stats.demolab.com?user=thundax-lyp&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="thundax's streak"/>
         </td>
@@ -115,10 +68,6 @@
         </td>
     </tr>
 </table>
-
-<p style="display: flex; justify-content: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=thundax-lyp&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="thundax's trophies"/>
-</p>
 
 </details>
 
