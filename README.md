@@ -32,6 +32,9 @@
 <details open>
 <summary>Skills & Tools</summary>
 <h3 style="display: flex; justify-content: center;">Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,tailwind" />
+</p>
 <p style="display: flex; justify-content: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
