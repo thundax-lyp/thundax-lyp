@@ -31,24 +31,16 @@
 
 <details open>
 <summary>Skills & Tools</summary>
-<h3 style="display: flex; justify-content: center;">Languages & Frameworks</h3>
+<h3 align="center">Backend / AI Architecture</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,tailwind&theme=light" />
+  <img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" height="48"/>
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring" height="48"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="48"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="48"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="48"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="48"/>
 </p>
-
-<h3 style="display: flex; justify-content: center;">AI Tools</h3>
-<p style="display: flex; justify-content: center;">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="TyTorch" width="40" height="40"/>
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Transformers" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/thundax-lyp/thundax-lyp/refs/heads/main/resources/networkx_logo.svg" alt="NetworkX" style="width: 40px; height: 40px;"/>
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=40" alt="Langchain" style="width: 40px; height: 40px;"/>
-    <img src="https://avatars.githubusercontent.com/u/130722866?s=40" alt="LlamaIndex" style="width: 40px; height: 40px;"/>
-</p>
-
-<h3 style="display: flex; justify-content: center;">Databases</h3>
-<p style="display: flex; justify-content: center;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" style="width: 40px; height: 40px;"/>
-    <img src="https://avatars.githubusercontent.com/u/201120?s=40" alt="Neo4j" style="width: 40px; height: 40px;"/>
 </details>
 
 <details open>
