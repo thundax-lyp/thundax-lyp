@@ -1,7 +1,7 @@
 # thundax
 
 <p align="center">
-    <strong>Building real-world systems at the intersection of AI engineering, knowledge graphs, and backend architecture.</strong>
+    <strong>Building real-world systems and engineering workflows for reliable AI-agent collaboration.</strong>
 </p>
 
 <p align="center">
@@ -12,14 +12,29 @@
 
 ## Focus
 
-Practical work across model workflows, schema tooling, rich editors, and production backend systems.
+Designing engineering environments where AI agents can work safely inside real codebases.
 
-- AI-native backend architecture with Java, Spring, Python, and PyTorch.
-- Schema tooling for IDE authoring, syntax highlighting, and editor workflows.
-- Rich editor and extension development with TypeScript, React, and VS Code.
-- Clean domain-driven engineering patterns for scalable backend systems.
+- Repository-native protocols: documentation, task queues, tests, and Git history as stable collaboration interfaces.
+- Context routing: scoped docs that tell AI what to read, when to read it, and what not to read.
+- Architecture constraints: explicit module boundaries, naming rules, dependency direction, and quality gates.
+- Real-system validation: 0-to-1 AI-native backend design and legacy Java/Spring modernization.
 
-## Tech Stack
+## Engineering Practice
+
+- Backend systems: Java, Spring Boot, Spring Cloud, DDD-style modules, mono/micro runtime, idempotency, outbox, and dead-letter flows.
+- Documentation governance: architecture rules, requirements, database design, runbooks, readiness checks, TODO lifecycle, and commit memory.
+- Language tooling: ANTLR grammars, LSP servers, diagnostics, formatting, semantic tokens, references, and editor previews.
+- AI productization: model inference, OpenAI-compatible workflows, streaming completion UX, and rich editor extensions.
+
+## Stack & Design
+
+<p>
+    <img src="https://img.shields.io/badge/System%20Design-111827?style=flat-square" alt="System Design"/>
+    <img src="https://img.shields.io/badge/DDD-111827?style=flat-square" alt="DDD"/>
+    <img src="https://img.shields.io/badge/Architecture%20Governance-111827?style=flat-square" alt="Architecture Governance"/>
+    <img src="https://img.shields.io/badge/AI%20Agent%20Workflow-111827?style=flat-square" alt="AI Agent Workflow"/>
+    <img src="https://img.shields.io/badge/LSP-111827?style=flat-square" alt="LSP"/>
+</p>
 
 <p>
     <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
@@ -36,11 +51,11 @@ Practical work across model workflows, schema tooling, rich editors, and product
 
 | Project | Area | Notes |
 | --- | --- | --- |
-| Schema editor tooling | Java / TypeScript | IDE extensions for schema authoring and syntax highlighting. |
-| [wechat-tiptap](https://github.com/alin995/wechat-tiptap) | TypeScript / Editor | WeChat-style WYSIWYG editor with AI, table, and image extensions. |
-| [Qwen2.5-Sign](https://github.com/thundax-lyp/Qwen2.5-Sign) | Python / AI | Text-to-Chinese-Sign model based on Qwen2.5. |
-| [bacon](https://github.com/thundax-lyp/bacon) | Java / Architecture | AI-native Java backend patterns: DDD, multi-domain collaboration, quality gates. |
-| [sandwich](https://github.com/thundax-lyp/sandwich) | Java / Backend | Minimal surface, layered backend structure. |
+| [bacon](https://github.com/thundax-lyp/bacon) | AI Agent Engineering OS | 0-to-1 backend architecture for AI-agent collaboration: context routing, executable architecture rules, task lifecycle, quality gates, and commit memory. |
+| [sandwich](https://github.com/thundax-lyp/sandwich) | Legacy modernization | Applying the same AI-agent-friendly governance model to an older Java/Spring system with scoped docs, architecture tests, TODO lifecycle, and incremental boundary cleanup. |
+| Language tooling | TypeScript / ANTLR / LSP / IntelliJ | Grammar-driven IDE and VS Code tooling with diagnostics, formatting, semantic tokens, references, parser tests, and preview workflows. |
+| [wechat-tiptap](https://github.com/alin995/wechat-tiptap) | React / Tiptap / AI Editor | Rich-text editor with custom extensions, table/image tooling, AI magic node, and streaming completion interaction. |
+| [Qwen2.5-Sign](https://github.com/thundax-lyp/Qwen2.5-Sign) | Python / Transformers / Gradio | Text-to-sign inference app with model loading, generation pipeline, label mapping, and lightweight WebUI. |
 
 ## GitHub Snapshot
 
