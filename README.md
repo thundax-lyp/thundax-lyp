@@ -60,11 +60,11 @@ Designing engineering environments where AI agents can work safely inside real c
 ## GitHub Snapshot
 
 <p align="center">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thundax-lyp&theme=github" alt="thundax's GitHub profile details"/>
+    <img width="98%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="thundax's GitHub profile details"/>
 </p>
 
 <p align="center">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thundax-lyp&theme=github" alt="thundax's GitHub stats"/>
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thundax-lyp&theme=github" alt="thundax's most committed languages"/>
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thundax-lyp&theme=github&utcOffset=8" alt="thundax's productive time"/>
+    <img width="32%" src="./profile-summary-card-output/github/3-stats.svg" alt="thundax's GitHub stats"/>
+    <img width="32%" src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="thundax's most committed languages"/>
+    <img width="32%" src="./profile-summary-card-output/github/4-productive-time.svg" alt="thundax's productive time"/>
 </p>
