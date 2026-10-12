@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-    <a href="mailto:thundax@qq.com"><img src="https://img.shields.io/badge/Email-thundax%40qq.com-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email thundax@qq.com"/></a>
-    <a href="https://huggingface.co/thundax"><img src="https://img.shields.io/badge/Hugging%20Face-thundax-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face thundax"/></a>
-    <a href="https://github.com/thundax-lyp"><img src="https://komarev.com/ghpvc/?username=thundax-lyp&label=Profile%20Views&color=111827&style=flat-square" alt="Profile views"/></a>
+    <a href="mailto:thundax@qq.com"><img src="resources/badges/email.svg" alt="Email thundax@qq.com"/></a>
+    <a href="https://huggingface.co/thundax"><img src="resources/badges/hugging-face.svg" alt="Hugging Face thundax"/></a>
+    <img src="https://komarev.com/ghpvc/?username=thundax-lyp&style=pixel" alt=""/>
 </p>
 
 ## Research direction
@@ -57,22 +57,21 @@ I study how models and coding agents can become useful in real applications whil
 ## Stack & design
 
 <p>
-    <img src="https://img.shields.io/badge/System%20Design-111827?style=flat-square" alt="System Design"/>
-    <img src="https://img.shields.io/badge/DDD-111827?style=flat-square" alt="DDD"/>
-    <img src="https://img.shields.io/badge/Architecture%20Governance-111827?style=flat-square" alt="Architecture Governance"/>
-    <img src="https://img.shields.io/badge/AI%20Agent%20Workflow-111827?style=flat-square" alt="AI Agent Workflow"/>
-    <img src="https://img.shields.io/badge/LSP-111827?style=flat-square" alt="LSP"/>
+    <img src="resources/badges/ai-agent-workflow.svg" alt="AI Agent Workflow"/>
+    <img src="resources/badges/architecture-governance.svg" alt="Architecture Governance"/>
+    <img src="resources/badges/ddd.svg" alt="DDD"/>
+    <img src="resources/badges/antlr.svg" alt="ANTLR"/>
+    <img src="resources/badges/lsp.svg" alt="LSP"/>
+    <img src="resources/badges/archunit.svg" alt="ArchUnit"/>
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring-111827?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring"/>
-    <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
-    <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-111827?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+    <img src="resources/badges/java.svg" alt="Java"/>
+    <img src="resources/badges/spring-boot.svg" alt="Spring Boot"/>
+    <img src="resources/badges/typescript.svg" alt="TypeScript"/>
+    <img src="resources/badges/react.svg" alt="React"/>
+    <img src="resources/badges/python.svg" alt="Python"/>
+    <img src="resources/badges/pytorch.svg" alt="PyTorch"/>
 </p>
 
 ## GitHub snapshot
